@@ -1,3 +1,43 @@
+// Small tablets and large smartphones (landscape view)
+$screen-sm-min: 576px;
+
+// Small tablets (portrait view)
+$screen-md-min: 768px;
+
+// Tablets and small desktops
+$screen-lg-min: 992px;
+
+// Large tablets and desktops
+$screen-xl-min: 1200px;
+// Small devices
+
+@mixin sm {
+  @media (min-width: #{$screen-sm-min}) {
+    @content;
+  }
+}
+
+// Medium devices
+@mixin md {
+  @media (min-width: #{$screen-md-min}) {
+    @content;
+  }
+}
+
+// Large devices
+@mixin lg {
+  @media (min-width: #{$screen-lg-min}) {
+    @content;
+  }
+}
+
+// Extra large devices
+@mixin xl {
+  @media (min-width: #{$screen-xl-min}) {
+    @content;
+  }
+}
+
 .App {
   display: flex;
   align-items: center;
@@ -52,7 +92,12 @@ code {
   color: white;
   font-weight: 300;
   letter-spacing: 0.6rem;
+
+  @include sm;
+  font-size: 2rem;
+  word-wrap: anywhere;
 }
+
 .JokeList-title span {
   font-weight: 700;
   letter-spacing: 0;
@@ -103,6 +148,11 @@ code {
     rgba(253, 187, 45, 1) 100%
   );
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
+
+  @include sm;
+  display: flex;
+  justify-content: center;
+  font-size: 0.5rem;
 }
 
 .JokeList-getmore:hover {
@@ -277,6 +327,11 @@ code {
   margin-right: 1rem;
   align-items: center;
   justify-content: center;
+  @include sm;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 0.5rem;
 }
 
 .Joke-text {

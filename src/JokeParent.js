@@ -12,10 +12,10 @@ class JokeParent extends Component {
   constructor(props) {
     super(props);
     // Get this from localstorage and parse it, else return empty array.
-    this.state = {
-      jokes: JSON.parse(window.localStorage.getItem("jokes") || "[]"),
-      loading: false
-    };
+        this.state = {
+          jokes: JSON.parse(window.localStorage.getItem("jokes") || "[]"),
+          loading: false
+        };
     // Making sure that we load existing jokes into our set
     // so that we can compare to new ones.
     this.seenJokes = new Set(this.state.jokes.map(j => j.text));
