@@ -9,12 +9,9 @@
     https://www.webnots.com/bootstrap-4-grid-layout-tutorial/ -- for codepen.io
     
     https://www.youtube.com/watch?v=hYJvxsgnGMA
-
-    https://dev.to/llorentegerman/simple-layouts-with-flexbox-in-react-55kf -- for codepen.io
- 
-    https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
     
     https://mdbootstrap.com/docs/react/layout/grid-usage/ -- for codepen.io
+    
 
 
 
@@ -31,17 +28,41 @@
     https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945/
 
     https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
+    
+    
+    Custom grid with styled components
+ 
+    https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
 
 
 ## Bootstrap Studio
 
+
     Learn Bootstrap Studio and Build new layout
+    
 
     Update project with bootstrap(flexbox) and styled components.
+    
+    
 
-    ------------ React and CSS grid -------------
+    ------------ React and Bootstrap CSS grid -------------
 
-    https://www.reddit.com/r/reactjs/comments/6rcdr3/how_to_use_react_with_css_grid/
+    Scss Mixin bootstrap grid.
+    
+             https://medium.com/@erik_flowers/how-youve-been-getting-the-bootstrap-grid-all-wrong-and-how-to-fix-it-6d97b920aa40
+    
+    
+    
+    https://reactstrap.github.io/components/alerts/
+    
+    
+    https://www.sitepoint.com/integrating-bootstrap-with-react/
+    
+    
+    
+    Custom styled components bootstrap grid
+    
+        https://github.com/xDae/styled-bootstrap
 
 
 
