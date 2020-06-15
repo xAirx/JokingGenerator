@@ -1,68 +1,63 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# JokeGenerator Project
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+### Bootstrap runthrough
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    https://www.webnots.com/bootstrap-4-grid-layout-tutorial/ -- for codepen.io
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+    https://dev.to/llorentegerman/simple-layouts-with-flexbox-in-react-55kf -- for codepen.io
+    https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
+    https://mdbootstrap.com/docs/react/layout/grid-usage/ -- for codepen.io
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Bootstrap Studio
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+    Learn Bootstrap Studio and Build new layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Update project with bootstrap(flexbox) and styled components.'
 
-### `yarn eject`
+    ------------ React and CSS grid -------------
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    https://www.reddit.com/r/reactjs/comments/6rcdr3/how_to_use_react_with_css_grid/
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Styled components
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    React styling and Styled Components
 
-## Learn More
+    https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    https://www.sitepoint.com/react-components-styling-options/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    https://medium.com/@jamiedixon/styled-components-production-patterns-c22e24b1d896#.tfxr5bws2
 
-### Code Splitting
+    https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945/
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+    https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Storybook integration
 
-### Advanced Configuration
+      Storybook section on onenote
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+      https://www.youtube.com/watch?v=5KOiMYfLB6A
 
-### Deployment
+      https://scotch.io/tutorials/building-a-ui-component-with-react-and-storybook
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+      https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/
 
-### `yarn build` fails to minify
+      https://medium.com/storybookjs/migrating-to-storybook-4-c65b19a03d2c
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+      https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/
+
+
+## Unitttesting
+
+      Unittesting section on onenote.
+
+
