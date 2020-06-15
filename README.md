@@ -4,7 +4,8 @@
 
 ### Bootstrap runthrough
 
-    Simple grids from bootstrap grid layout section on onenote.
+
+Simple grids from bootstrap grid layout section on onenote.
 
     https://www.webnots.com/bootstrap-4-grid-layout-tutorial/ -- for codepen.io
     
@@ -30,35 +31,21 @@
     https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
     
     
+    
     Custom grid with styled components
  
-    https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
-
-
-## Bootstrap Studio
-
-
-    Learn Bootstrap Studio and Build new layout
-    
-
-    Update project with bootstrap(flexbox) and styled components.
-    
+            https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
     
 
 ## React and Bootstrap CSS grid 
 
     
     ### Reactstrap
-    https://reactstrap.github.io/components/alerts/
-      
-    https://www.sitepoint.com/integrating-bootstrap-with-react/
-      
-    
-    ### Custom styled components bootstrap grid
-    
-        https://github.com/xDae/styled-bootstrap
+   
+             https://reactstrap.github.io/components/alerts/
 
-
+            https://www.sitepoint.com/integrating-bootstrap-with-react/
+   
 
 ## Optimization 
 
@@ -66,7 +53,7 @@
     Scss Mixin bootstrap grid.
     
     
-             https://medium.com/@erik_flowers/how-youve-been-getting-the-bootstrap-grid-all-wrong-and-how-to-fix-it-6d97b920aa40
+         https://medium.com/@erik_flowers/how-youve-been-getting-the-bootstrap-grid-all-wrong-and-how-to-fix-it-6d97b920aa40
     
 
 
@@ -90,3 +77,14 @@
       Unittesting section on onenote.
 
 
+ 
+    ### Custom styled components bootstrap grid
+    
+        https://github.com/xDae/styled-bootstrap <- Learn about the storybook implemenation too.
+
+
+
+## Bootstrap Studio
+
+
+    Enjoy Bootstrap Studio
