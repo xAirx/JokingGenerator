@@ -45,26 +45,29 @@
     
     
 
-    ------------ React and Bootstrap CSS grid -------------
+## React and Bootstrap CSS grid 
 
-    Scss Mixin bootstrap grid.
     
-             https://medium.com/@erik_flowers/how-youve-been-getting-the-bootstrap-grid-all-wrong-and-how-to-fix-it-6d97b920aa40
-    
-    
-    
+    ### Reactstrap
     https://reactstrap.github.io/components/alerts/
-    
-    
+      
     https://www.sitepoint.com/integrating-bootstrap-with-react/
+      
     
-    
-    
-    Custom styled components bootstrap grid
+    ### Custom styled components bootstrap grid
     
         https://github.com/xDae/styled-bootstrap
 
 
+
+## Optimization 
+
+
+    Scss Mixin bootstrap grid.
+    
+    
+             https://medium.com/@erik_flowers/how-youve-been-getting-the-bootstrap-grid-all-wrong-and-how-to-fix-it-6d97b920aa40
+    
 
 
 ## Storybook integration
