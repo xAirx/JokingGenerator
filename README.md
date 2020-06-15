@@ -17,16 +17,6 @@
     https://mdbootstrap.com/docs/react/layout/grid-usage/ -- for codepen.io
 
 
-## Bootstrap Studio
-
-    Learn Bootstrap Studio and Build new layout
-
-    Update project with bootstrap(flexbox) and styled components.'
-
-    ------------ React and CSS grid -------------
-
-    https://www.reddit.com/r/reactjs/comments/6rcdr3/how_to_use_react_with_css_grid/
-
 
 ## Styled components
 
@@ -41,6 +31,17 @@
     https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945/
 
     https://www.freecodecamp.org/news/a-5-minute-intro-to-styled-components-41f40eb7cd55/
+
+
+## Bootstrap Studio
+
+    Learn Bootstrap Studio and Build new layout
+
+    Update project with bootstrap(flexbox) and styled components.
+
+    ------------ React and CSS grid -------------
+
+    https://www.reddit.com/r/reactjs/comments/6rcdr3/how_to_use_react_with_css_grid/
 
 
 
