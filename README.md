@@ -4,13 +4,17 @@
 
 ### Bootstrap runthrough
 
-    https://www.webnots.com/bootstrap-4-grid-layout-tutorial/ -- for codepen.io
+    Simple grids from bootstrap grid layout section on onenote.
 
+    https://www.webnots.com/bootstrap-4-grid-layout-tutorial/ -- for codepen.io
+    
+    https://www.youtube.com/watch?v=hYJvxsgnGMA
 
     https://dev.to/llorentegerman/simple-layouts-with-flexbox-in-react-55kf -- for codepen.io
+ 
     https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
+    
     https://mdbootstrap.com/docs/react/layout/grid-usage/ -- for codepen.io
-
 
 
 ## Bootstrap Studio
