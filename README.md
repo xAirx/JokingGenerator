@@ -68,10 +68,11 @@
 
 
 
-## TODO: Storybook integration
+## TODO: Storybook (Documentation, Component testing) - integration
 
 
-      Storybook section on onenote
+    ###  Storybook section on onenote
+    
       
       https://www.sitepoint.com/react-storybook-develop-beautiful-user-interfaces-with-ease/
       
@@ -86,6 +87,13 @@
       https://medium.com/storybookjs/migrating-to-storybook-4-c65b19a03d2c
 
       https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/
+      
+      
+     ### Storybook component testing (Git prehook)
+     
+        https://blog.logrocket.com/react-storybook/
+
+        https://storybook.js.org/docs/testing/react-ui-testing/
 
 
 
