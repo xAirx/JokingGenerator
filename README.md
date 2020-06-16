@@ -98,6 +98,9 @@
         https://blog.logrocket.com/react-storybook/
 
         https://storybook.js.org/docs/testing/react-ui-testing/
+        
+        
+     ## Static site deploy
 
 
 
