@@ -72,6 +72,10 @@
 
 
       Storybook section on onenote
+      
+      https://www.sitepoint.com/react-storybook-develop-beautiful-user-interfaces-with-ease/
+      
+      https://medium.com/storybookjs/component-story-format-66f4c32366df
 
       https://www.youtube.com/watch?v=5KOiMYfLB6A
 
@@ -83,13 +87,6 @@
 
       https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/
 
-
-
-
-## TODO: Unit-testing
-
-      Unittesting section on onenote.
-      
 
 
 
