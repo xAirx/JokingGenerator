@@ -6,13 +6,7 @@
 
 
 
-
-
 ## TODO: Functionality:
-
-
-
-
 
 
 
@@ -67,7 +61,6 @@
 
 
 
-
 ## TODO: Storybook (Documentation, Component testing) - integration
 
 
@@ -87,6 +80,17 @@
       https://medium.com/storybookjs/migrating-to-storybook-4-c65b19a03d2c
 
       https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/
+      
+      
+      ## Documentation 
+      
+      https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc
+      
+      https://dev.to/emmabostian/documenting-react-components-with-storybook-4h3b
+      
+      https://medium.com/storybookjs/storybook-docspage-e185bc3622bf
+      
+      https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a
       
       
      ### Storybook component testing (Git prehook)
