@@ -2,13 +2,13 @@
 
 
 
-## Stack:
+## TODO: Stack:
 
 
 
 
 
-## Functionality:
+## TODO: Functionality:
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-## Styled components
+## TODO: Styled components
 
     React styling and Styled Components
 
@@ -40,7 +40,7 @@
     
 
 
-## Styled Components Theming 
+## TODO: Styled Components Theming 
 
     https://stackoverflow.com/questions/54002385/using-bootstrap-classes-with-reactjs-styled-components
    
@@ -59,7 +59,7 @@
 
 
  
-## React and MDBootstrap     
+## TODO: React and MDBootstrap     
 
           https://mdbootstrap.com/cli/quick-start/
           https://mdbootstrap.com/docs/jquery/layout/grid-usage/
@@ -68,7 +68,7 @@
 
 
 
-## Storybook integration
+## TODO: Storybook integration
 
 
       Storybook section on onenote
@@ -86,7 +86,7 @@
 
 
 
-## Unit-testing
+## TODO: Unit-testing
 
       Unittesting section on onenote.
       
