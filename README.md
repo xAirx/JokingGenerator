@@ -1,12 +1,17 @@
 # JokeGenerator Project
 
+# JokeGenerator
+
+## Hosting: https://jokegeneratormwdesign.netlify.app 
 
 
-## TODO: Stack:
+## Storybook link: 
 
 
+       - Emphasis: Basic React,Axios, Props, State, Responsiveness, Font awesome.
 
-## TODO: Functionality:
+        https://github.com/xAirx/JokingGenerator
+
 
 
 
