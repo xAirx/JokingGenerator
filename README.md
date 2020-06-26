@@ -57,15 +57,6 @@
           https://www.digitalocean.com/community/tutorials/react-theming-styled-components
 
 
- 
-## TODO: React and MDBootstrap     
-
-          https://mdbootstrap.com/cli/quick-start/
-          https://mdbootstrap.com/docs/jquery/layout/grid-usage/
-          https://stackoverflow.com/questions/45895416/styled-components-and-react-bootstrap
-
-
-
 ## TODO: Storybook (Documentation, Component testing) - integration
 
 
