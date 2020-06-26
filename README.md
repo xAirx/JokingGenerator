@@ -14,9 +14,8 @@
 
 
 
-
-
 ## TODO: Styled components
+
 
     React styling and Styled Components
 
@@ -34,19 +33,18 @@
     
     
     
+## Creating grid with styled components
+
+###### CSS GRID with flexbox
  
+###### Custom grid
+
      https://medium.com/swlh/create-a-responsive-grid-with-react-flexbox-styled-components-f7a55f607480 -- for codepen.io
     
 
 
-## TODO: Styled Components Theming 
+## TODO: Styled Components Theming  add dark and light mode theme
 
-    https://stackoverflow.com/questions/54002385/using-bootstrap-classes-with-reactjs-styled-components
-   
-    https://stackoverflow.com/questions/52539793/apply-bootstrap-theme-globally-using-react-styled-components
-
-
-          https://stackoverflow.com/questions/47318455/overwriting-nested-styles-in-react-bootstrap-using-styled-components
 
           https://medium.com/@rossbulat/creating-themes-in-react-with-styled-components-6fce744b4e54
 
@@ -55,6 +53,7 @@
           https://dev.to/aromanarguello/how-to-use-themes-in-styled-components-49h
 
           https://www.digitalocean.com/community/tutorials/react-theming-styled-components
+          
 
 
 ## TODO: Storybook (Documentation, Component testing) - integration
